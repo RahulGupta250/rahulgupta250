@@ -40,8 +40,7 @@
 
 - 📧 Email: [yashgupta25064@gmail.com](mailto:yashgupta25064@gmail.com)
 - 💼 LinkedIn: [Rahul Gupta](https://www.linkedin.com/in/rahul-gupta-790a47432/)
-- 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR-USERNAME)
-
+- 🐙 GitHub: https://github.com/RahulGupta250
 ---
 
 ⭐ *Always learning, building, and exploring the world of AI & Data Science.*
